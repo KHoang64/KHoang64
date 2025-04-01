@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left"> What I Desire to truly achieve or at least can use as inutition from:</h3>
+<h3 align="left"> What I need to learn for the current arc to truly achieve or at least learn the inutition from:</h3>
 <p align="left">
 <ul>
   <li>🧠 C++, Object-Oriented Programming, and using C++ for embedded systems like Raspberry Pi</li>
