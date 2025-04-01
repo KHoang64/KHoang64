@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Heyy hello there wanderer welcome to my github its currentlly not much right but I want to learn so much and keep it on growing </h3>
 
 - 🔭 I’m currently working on [a lot of things that may take time](#)  
 - 💬 Ask me about **unity assets, blender tho i used them for a couple years**
